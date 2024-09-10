@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"A:\\Projects\\Parallel\\Source\\Parallel\\Parallel.Build.cs",
+		"A:\\Projects\\Parallel\\Source\\Parallel.Target.cs",
+		"A:\\Projects\\Parallel\\Source\\ParallelEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

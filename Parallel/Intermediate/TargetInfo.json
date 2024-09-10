@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Parallel",
+			"Path": "A:\\Projects\\Parallel\\Source\\Parallel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ParallelEditor",
+			"Path": "A:\\Projects\\Parallel\\Source\\ParallelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

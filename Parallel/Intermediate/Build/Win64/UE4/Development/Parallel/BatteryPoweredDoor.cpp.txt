@@ -1,0 +1,5 @@
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Development\Parallel\Definitions.Parallel.h
+A:\Projects\Parallel\Source\Parallel\Public\BatteryPoweredDoor.h
+A:\Projects\Parallel\Source\Parallel\Public\Interactable.h
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Inc\Parallel\Interactable.generated.h
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Inc\Parallel\BatteryPoweredDoor.generated.h

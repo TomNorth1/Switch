@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Parallel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DF51F1DE-DBC4-4B53-BE28-B5E616605414}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Parallel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ParallelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{71308FCD-FEBF-4582-9291-24AB7220BDF4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Parallel">
+      <UniqueIdentifier>{5CE820ED-1FF3-430F-BFAC-CB9C1E36AD03}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Parallel\Parallel.Build.cs">
+      <Filter>Source\Parallel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Parallel\Parallel.cpp">
+      <Filter>Source\Parallel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Parallel\Parallel.h">
+      <Filter>Source\Parallel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Parallel\ParallelGameModeBase.cpp">
+      <Filter>Source\Parallel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Parallel\ParallelGameModeBase.h">
+      <Filter>Source\Parallel</Filter>
+    </ClInclude>
+    <Filter Include="Source\Parallel\Private">
+      <UniqueIdentifier>{A4E4EBB7-3301-4BC5-9A74-A937B9E95703}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Parallel\Private\Battery.cpp">
+      <Filter>Source\Parallel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Parallel\Private\BatteryPoweredDoor.cpp">
+      <Filter>Source\Parallel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Parallel\Private\Crate.cpp">
+      <Filter>Source\Parallel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Parallel\Private\Interactable.cpp">
+      <Filter>Source\Parallel\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Parallel\Private\ParallelCharacter.cpp">
+      <Filter>Source\Parallel\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Parallel\Public">
+      <UniqueIdentifier>{97D0F823-C4D3-4F7E-8FD6-A8CEBD529C74}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Parallel\Public\Battery.h">
+      <Filter>Source\Parallel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Parallel\Public\BatteryPoweredDoor.h">
+      <Filter>Source\Parallel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Parallel\Public\Crate.h">
+      <Filter>Source\Parallel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Parallel\Public\Interactable.h">
+      <Filter>Source\Parallel\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Parallel\Public\ParallelCharacter.h">
+      <Filter>Source\Parallel\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Development\Parallel\Definitions.Parallel.h
+A:\Projects\Parallel\Source\Parallel\Public\Crate.h
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Inc\Parallel\Crate.generated.h

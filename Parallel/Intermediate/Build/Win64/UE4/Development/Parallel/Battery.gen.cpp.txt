@@ -1,0 +1,7 @@
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Development\Parallel\Definitions.Parallel.h
+A:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+A:\Projects\Parallel\Source\Parallel/Public/Battery.h
+A:\Projects\Parallel\Source\Parallel\Public\Interactable.h
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Inc\Parallel\Interactable.generated.h
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Inc\Parallel\Battery.generated.h

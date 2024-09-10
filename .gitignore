@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Parallel/Binaries/Win64/Parallel.pdb
+Parallel/Saved/StagedBuilds/WindowsNoEditor/Parallel/Content/Paks/Parallel-WindowsNoEditor.pak

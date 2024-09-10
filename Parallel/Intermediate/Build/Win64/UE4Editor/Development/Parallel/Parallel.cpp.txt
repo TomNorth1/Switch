@@ -1,0 +1,2 @@
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4Editor\Development\Parallel\Definitions.Parallel.h
+A:\Projects\Parallel\Source\Parallel\Parallel.h

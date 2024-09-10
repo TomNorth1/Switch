@@ -1,0 +1,19 @@
+﻿  Parsing headers for ParallelEditor
+    Running UnrealHeaderTool "A:\Projects\Parallel\Parallel.uproject" "A:\Projects\Parallel\Intermediate\Build\Win64\ParallelEditor\Development\ParallelEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tom\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for ParallelEditor in 3.854865 seconds
+  Building ParallelEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (A:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 16 processes...
+    [1/9] Parallel.init.gen.cpp
+    [2/9] BatteryPoweredDoor.cpp
+    [3/9] BatteryPoweredDoor.gen.cpp
+    [4/9] Battery.cpp
+    [5/9] ParallelCharacter.gen.cpp
+    [6/9] ParallelCharacter.cpp
+    [7/9] UE4Editor-Parallel.lib
+       Creating library A:\Projects\Parallel\Intermediate\Build\Win64\UE4Editor\Development\Parallel\UE4Editor-Parallel.lib and object A:\Projects\Parallel\Intermediate\Build\Win64\UE4Editor\Development\Parallel\UE4Editor-Parallel.exp
+    [8/9] UE4Editor-Parallel.dll
+       Creating library A:\Projects\Parallel\Intermediate\Build\Win64\UE4Editor\Development\Parallel\UE4Editor-Parallel.suppressed.lib and object A:\Projects\Parallel\Intermediate\Build\Win64\UE4Editor\Development\Parallel\UE4Editor-Parallel.suppressed.exp
+    [9/9] ParallelEditor.target
+  Total time in Parallel executor: 3.13 seconds
+  Total execution time: 7.64 seconds

@@ -1,0 +1,9 @@
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Development\Parallel\Definitions.Parallel.h
+A:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\UE4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+A:\Projects\Parallel\Source\Parallel/ParallelGameModeBase.h
+A:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+A:\UE4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+A:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+A:\UE4\UE_4.26\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+A:\Projects\Parallel\Intermediate\Build\Win64\UE4\Inc\Parallel\ParallelGameModeBase.generated.h

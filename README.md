@@ -25,7 +25,9 @@ Use the device on your wrist to switch realities
 
 Use physics objects to solve puzzles to progress through the game.
 
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIyZHV0ZXBqYTJrMmZqMGFkZWptZDMxaXRucGxuMG03MTkyNmhibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Lp1sLr60Elc5iBHMZ/giphy.gif)
 
+Use the tools at your disposal to avoid enemy turrets and disable them in order to progress.
 
 
 ## How to install 

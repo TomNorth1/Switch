@@ -19,6 +19,9 @@ The game features:
 3. Extract the file
 4. Run the Parallel.exe file located in the WindowsNoEditor folder
 
-
-
+## Controls
+* W, A, S, D to move
+* SPACE to jump
+* E to interact with crates or batteries
+* F to switch realities
 
